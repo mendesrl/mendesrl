@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Larissa Mendes! ✨
+- 👩‍💻 Front end developer at Webjump 
+- 🔭 learning about the amazing world of development
+- 🏡 Brazilian, Based in Campo Grande, MS
 
-<!--
-**mendesrl/mendesrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can find me on
+📧 [Email](ribeiro.larissamendes@gmail.com) 
+
+💻 https://larissamendes.hashnode.dev/
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
