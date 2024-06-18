@@ -5,8 +5,5 @@
 
 ### You can find me on
 📧 ribeiro.larissamendes@gmail.com 
-
-💻 [My site](https://larissamendes.hashnode.dev/)
-
 📱 [Linkedin](https://www.linkedin.com/in/larissamendesribeiro/)
 
